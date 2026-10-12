@@ -5,10 +5,10 @@
 ## מי אחראית על מה (למלא לפני שמתחילים, commit ל-main)
 | חלק | מה בונים | קובץ CSS | קידומת מחלקות | אחראית |
 |---|---|---|---|---|
-| A | סרגל עליון, header, תפריט ראשי עם תפריט נפתח | css/part-a.css | hdr-, nav- | yael shuv |
-| B | breadcrumb, כותרת, כתבה ראשית, footer | css/part-b.css | hero-, ftr- | taliya chohen|
-| C | אזור כתבות: שישה כרטיסים באותו גודל | css/part-c.css | grid- | yael levi|
-| D | אזור כתבות: שני כרטיסים רחבים + רשימה | css/part-d.css | wide- | odel revivo|
+| A | סרגל עליון, header, תפריט ראשי עם תפריט נפתח | css/part-a.css | hdr-, nav- | Yael Shuv |
+| B | breadcrumb, כותרת, כתבה ראשית, footer | css/part-b.css | hero-, ftr- | Taliya Chohen|
+| C | אזור כתבות: שישה כרטיסים באותו גודל | css/part-c.css | grid- | lael Levi|
+| D | אזור כתבות: שני כרטיסים רחבים + רשימה | css/part-d.css | wide- | Odel Revivo|
 | E | בונוס: pager + "טוען כתבות" | css/part-e.css | pager- | |
 
 בצוות של שלוש: A, B, C. החלק D הוא בונוס.
