@@ -5,7 +5,7 @@
 ## מי אחראית על מה (למלא לפני שמתחילים, commit ל-main)
 | חלק | מה בונים | קובץ CSS | קידומת מחלקות | אחראית |
 |---|---|---|---|---|
-| A | סרגל עליון, header, תפריט ראשי עם תפריט נפתח | css/part-a.css | hdr-, nav- | Yael Shuv |
+| A | סרגל עליון, header, תפריט ראשי עם תפריט נפתח | css/part-a.css | hdr-, nav- | Yael Haim Shuv |
 | B | breadcrumb, כותרת, כתבה ראשית, footer | css/part-b.css | hero-, ftr- | Taliya Chohen|
 | C | אזור כתבות: שישה כרטיסים באותו גודל | css/part-c.css | grid- | lael Levi|
 | D | אזור כתבות: שני כרטיסים רחבים + רשימה | css/part-d.css | wide- | Odel Revivo|
