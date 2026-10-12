@@ -44,3 +44,7 @@ p {
   margin: 0 auto;
   padding: 0 16px;
 }
+main{
+  width: 90%;
+  margin: auto;
+}
