@@ -1,0 +1,46 @@
+/* ==========================================================
+   base.css  -  קובץ משותף לכל הצוות
+   ננעל אחרי ההקמה. אף אחת לא עורכת אותו (גם לא "רק שורה קטנה").
+   רק כאן מותר לעצב תגיות חשופות (body, a, ul...) והמחלקה .wrap
+   ========================================================== */
+:root {
+  --blue: #1d4e89;
+  --blue-dark: #12335c;
+  --gray: #f2f4f7;
+  --text: #1b1f24;
+  --border: #d9dee5;
+  --accent: #c8102e;
+}
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: Arial, "Segoe UI", sans-serif;
+  color: var(--text);
+  background: #fff;
+  line-height: 1.5;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+}
+.wrap {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
